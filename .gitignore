@@ -1,0 +1,16 @@
+.bundle
+Gemfile
+db/*.sqlite3
+log/*.log
+tmp/
+config/application.yml
+config/database.yml
+.idea/*
+*.iml
+db/schema.rb
+coverage
+tmtags
+tags
+*.tmproj
+.DS_Store
+*.routes.js
